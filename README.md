@@ -15,4 +15,8 @@ Artículos completos en el Blog:
 
 * [K-Means en Python paso a paso](http://www.aprendemachinelearning.com/k-means-en-python-paso-a-paso/)
 
+![Ejemplo Machine Learning arboles de decisión](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/04/arbol-de-desicion-python.png?w=560)
+
+* [Árbol de Decisión, predicción Billboard 100](http://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/)
+
 @jbagnato
