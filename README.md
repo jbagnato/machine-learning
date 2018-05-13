@@ -19,4 +19,9 @@ Artículos completos en el Blog:
 
 * [Árbol de Decisión, predicción Billboard 100](http://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/)
 
+![Aprende Regresión Lineal en Python](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/05/regresion_linear_poster.png?w=560)
+
+* [Ejercicio de Regresión Lineal Simple y Múltiple](http://www.aprendemachinelearning.com/regresion-lineal-en-espanol-con-python/)
+
+
 @jbagnato
