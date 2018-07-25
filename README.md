@@ -23,5 +23,13 @@ Artículos completos en el Blog:
 
 * [Ejercicio de Regresión Lineal Simple y Múltiple](http://www.aprendemachinelearning.com/regresion-lineal-en-espanol-con-python/)
 
+![Red Neuronal en Python con Keras](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/05/red-neuronal-python-keras.png?w=560)
+
+* [Una sencilla Red Neuronal en Python con Keras y Tensorflow](http://www.aprendemachinelearning.com/una-sencilla-red-neuronal-en-python-con-keras-y-tensorflow/)
+
+![K-Nearest-Neighbor en Python](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/07/k-Nearest-Neighbor-algoritmo.png?w=560)
+
+* [Clasificar con K-Nearest-Neighbor ejemplo en Python](http://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
+
 
 @jbagnato
