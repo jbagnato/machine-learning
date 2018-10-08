@@ -42,4 +42,8 @@ Artículos completos en el Blog:
 
 * [¿Comprar casa o Alquilar? Naive Bayes usando Python](http://www.aprendemachinelearning.com/comprar-casa-o-alquilar-naive-bayes-usando-python/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
 
+![PCA](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/10/pca_aprende_ml.png?w=560)
+
+* [Comprende Principal Component Analysis](http://www.aprendemachinelearning.com/comprende-principal-component-analysis/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
 @jbagnato
