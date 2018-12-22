@@ -46,4 +46,12 @@ Artículos completos en el Blog:
 
 * [Comprende Principal Component Analysis](http://www.aprendemachinelearning.com/comprende-principal-component-analysis/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
 
+![Clasificacion imagenes Python](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/11/red_neuronal_convolucional_post.png?w=560)
+
+* [Clasificacion de imagenes en Python](http://www.aprendemachinelearning.com/clasificacion-de-imagenes-en-python/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
+![CNN](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/11/portada_cnn.png?w=560)
+
+* [Como funcionan una Convolutional Neural Network](http://www.aprendemachinelearning.com/como-funcionan-las-convolutional-neural-networks-vision-por-ordenador/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
 @jbagnato
