@@ -62,20 +62,9 @@ Artículos completos en el Blog:
 
 * [Como funcionan una Convolutional Neural Network](http://www.aprendemachinelearning.com/como-funcionan-las-convolutional-neural-networks-vision-por-ordenador/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
 
-![NLP](https://i1.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/12/nlp_blog.png?w=480)
-
-* Introducción / Teoría [Procesamiento del Lenguaje Natural](http://www.aprendemachinelearning.com/procesamiento-del-lenguaje-natural-nlp/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
-
-![NLP](https://i1.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/01/PLN-ejercicio-python.png?w=480)
-
-* Introducción / Práctica [NLP: Analizamos los cuentos de Hernan Casciari](http://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
-
-![Pronostico Series Temporales Parte 1](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/02/pronostico_red_neuronal.png?w=480)
-
-* [Pronóstico de Series Temporales con Redes Neuronales en Python](http://www.aprendemachinelearning.com/pronostico-de-series-temporales-con-redes-neuronales-en-python/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
-
-![Pronostico Series Temporales Parte 2](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/03/Series-Temporales-python-nn.png?w=480)
-
-* [Pronóstico de Ventas con Redes Neuronales – Parte 2](http://www.aprendemachinelearning.com/pronostico-de-ventas-redes-neuronales-python-embeddings/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+| Artículos ML | Artículos ML |
+| ------------- | ----------- |
+| ![NLP](https://i1.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2018/12/nlp_blog.png?w=360) Introducción / Teoría [Procesamiento del Lenguaje Natural](http://www.aprendemachinelearning.com/procesamiento-del-lenguaje-natural-nlp/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) | ![NLP](https://i1.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/01/PLN-ejercicio-python.png?w=360) Introducción / Práctica [NLP: Analizamos los cuentos de Hernan Casciari](http://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) |
+| ![Pronostico Series Temporales Parte 1](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/02/pronostico_red_neuronal.png?w=360) [Pronóstico de Series Temporales con Redes Neuronales en Python](http://www.aprendemachinelearning.com/pronostico-de-series-temporales-con-redes-neuronales-en-python/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) | ![Pronostico Series Temporales Parte 2](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/03/Series-Temporales-python-nn.png?w=360) [Pronóstico de Ventas con Redes Neuronales – Parte 2](http://www.aprendemachinelearning.com/pronostico-de-ventas-redes-neuronales-python-embeddings/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) |
 
 @jbagnato
