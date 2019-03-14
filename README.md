@@ -70,4 +70,12 @@ Artículos completos en el Blog:
 
 * Introducción / Práctica [NLP: Analizamos los cuentos de Hernan Casciari](http://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
 
+![Pronostico Series Temporales Parte 1](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/02/pronostico_red_neuronal.png?w=480)
+
+* [Pronóstico de Series Temporales con Redes Neuronales en Python](http://www.aprendemachinelearning.com/pronostico-de-series-temporales-con-redes-neuronales-en-python/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
+![Pronostico Series Temporales Parte 2](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/03/Series-Temporales-python-nn.png?w=480)
+
+* [Pronóstico de Ventas con Redes Neuronales – Parte 2](http://www.aprendemachinelearning.com/pronostico-de-ventas-redes-neuronales-python-embeddings/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
 @jbagnato
