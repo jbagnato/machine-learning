@@ -58,4 +58,8 @@ Artículos completos en el Blog:
 
 * Introducción / Teoría [Procesamiento del Lenguaje Natural](http://www.aprendemachinelearning.com/procesamiento-del-lenguaje-natural-nlp/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
 
+![NLP](https://i1.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/01/PLN-ejercicio-python.png?w=480)
+
+* Introducción / Práctica [NLP: Analizamos los cuentos de Hernan Casciari](http://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
 @jbagnato
