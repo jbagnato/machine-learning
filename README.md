@@ -7,6 +7,14 @@ Artículos completos en el Blog:
 
 * [Instalar y configurar ambiente desarrollo Python Anaconda](http://www.aprendemachinelearning.com/instalar-ambiente-de-desarrollo-python-anaconda-para-aprendizaje-automatico/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
 
+![Machine Learning en la Nube](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/02/machine-learning-en-la-nube.png?w=480)
+
+* [Machine Learning en la Nube: Google Colaboratory con GPU!](http://www.aprendemachinelearning.com/machine-learning-en-la-nube-google-colaboratory-con-gpu/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
+![WebScraping](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/01/webscraping-en-python.png?w=480)
+
+* [Ejemplo Web Scraping en Python: IBEX35® la Bolsa de Madrid](http://www.aprendemachinelearning.com/ejemplo-web-scraping-python-ibex35-bolsa-valores/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
 ![Ejercicio de Regresión Logistica](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2017/11/regresionlogistica-machine-learning.png?w=480)
 
 * [Regresión Logística con Python paso a paso](http://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
