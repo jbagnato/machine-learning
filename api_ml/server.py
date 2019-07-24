@@ -23,8 +23,7 @@ def predict():
 	else:
 		#Load the saved model
 		print("Cargar el modelo...")
-		loaded_model = crear_modeloEmbeddings()
-		loaded_model.load_weights("pesos.h5")
+		loaded_model = cargarModeloSiEsNecesario()
 
 		print("Hacer Pronosticos")
 		continuas = input[['var1(t-7)','var1(t-6)','var1(t-5)','var1(t-4)','var1(t-3)','var1(t-2)','var1(t-1)']]
@@ -44,3 +43,17 @@ def predict():
 		print("Fin de Peticion")
 		
 		return (responses)
+
+global_model = None
+
+def cargarModeloSiEsNecesario():
+	global global_model
+	if global_model is not None:
+		print('Modelo YA cargado')
+		return global_model
+	else:
+		global_model = crear_modeloEmbeddings()
+		global_model.load_weights("pesos.h5")	
+		print('Modelo Cargado')
+		return global_model
+		
