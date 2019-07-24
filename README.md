@@ -28,4 +28,8 @@ Artículos completos en el Blog:
 | ![Random Forest, el poder del Ensamble](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/06/algoritmo-random-forest.png?w=360) [Cómo funciona Random Forest](https://www.aprendemachinelearning.com/random-forest-el-poder-del-ensamble/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) | ![Clasificación con datos desbalanceados](https://i1.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/05/clases-desbalanceadas-1.png?w=360) [Clasificación con datos desbalanceados](https://www.aprendemachinelearning.com/clasificacion-con-datos-desbalanceados/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) |
 | ![12 Consejos útiles para aplicar Machine Learning](https://i0.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/04/consejos_ml.png?w=360) [Consejos para tus modelos de Machine Learning](https://www.aprendemachinelearning.com/12-consejos-utiles-para-aplicar-machine-learning/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) | ![Interpretación de Modelos de Machine Learning](https://i2.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/04/Interpretacion_modelos.png?w=360) [Interpretación de Modelos de Machine Learning](https://www.aprendemachinelearning.com/interpretacion-de-modelos-de-machine-learning/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) |
 
+![Tu API Flask para ML](https://i1.wp.com/www.aprendemachinelearning.com/wp-content/uploads/2019/07/flask_python_ml.png?w=480)
+
+* [Tu propio Servicio de Machine Learning](https://www.aprendemachinelearning.com/tu-propio-servicio-de-machine-learning/?utm_source=github&utm_medium=readme&utm_campaign=repositorio)
+
 @jbagnato
