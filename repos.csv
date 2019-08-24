@@ -1,0 +1,168 @@
+repoId,title,categories,stars
+1,airbnb / javascript,completar,
+2,kamranahmedse / developer-roadmap,Roadmap to becoming a web developer in 2019,85800
+3,microsoft / vscode,Visual Studio Code,80855
+4,torvalds / linux,Linux kernel source tree,78761
+5,ytdl-org / youtube-dl,Command-line program to download videos from YouTube.com and other video sites,53909
+6,30-seconds / 30-seconds-of-code,completar,
+7,pallets / flask,The Python micro framework for building web applications,45781
+8,chrislgarry / Apollo-11,completar,
+9,josephmisiti / awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software",41192
+10,django / django,The Web framework for perfectionists with deadlines,43347
+11,psf / requests,,
+12,tonsky / FiraCode,completar,
+13,karan / Projects,completar,
+14,python / cpython,The Python programming language,25924
+15,Avik-Jain / 100-Days-Of-ML-Code,100 Days of ML Coding,24828
+16,knsv / mermaid,Generation of diagram and flowchart from text in a similar manner as markdown,24396
+17,tldr-pages / tldr,completar,
+18,tuvtran / project-based-learning,Curated list of project-based tutorials,23000
+19,ZuzooVn / machine-learning-for-software-engineers,A complete daily plan for studying to become a machine learning engineer,22264
+20,getsentry / sentry,,
+21,eventlet / eventlet,,
+22,mongodb / pymodm,,
+23,python / peps,,
+24,ansible / ansible,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications,38469
+25,servo / servo,,
+26,google / grumpy,,
+27,pallets / werkzeug,,
+28,aalhour / awesome-compilers,,
+29,urllib3 / urllib3,,
+30,python-hyper / hyper,,
+31,vmprof / vmprof-python,,
+32,freeCodeCamp / freeCodeCamp,The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.,304196
+33,jwasham / coding-interview-university,A complete computer science study plan to become a software engineer,85188
+34,vinta / awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",70800
+35,keras-team / keras,Deep Learning for humans,43317
+36,ossu / computer-science,🎓 Path to a free self-taught education in Computer Science!,42700
+37,Kickball / awesome-selfhosted,,
+38,open-guides / og-aws,,
+39,terryum / awesome-deep-learning-papers,The most cited deep learning papers,19486
+40,pypa / pipenv,,
+41,veggiemonk / awesome-docker,,
+42,encode / django-rest-framework,,
+43,ChristosChristofidis / awesome-deep-learning,,
+44,huge-success / sanic,,
+45,kailashahirwar / cheatsheets-ai,,
+46,Miserlou / Zappa,,
+47,codelucas / newspaper,,
+48,n1trux / awesome-sysadmin,A curated list of amazingly awesome open source sysadmin resources.,
+49,aio-libs / aiohttp,Asynchronous HTTP client/server framework for asyncio and Python,
+50,fchollet / deep-learning-with-python-notebooks,"Jupyter notebooks for the code samples of the book ""Deep Learning with Python""",
+51,php / php-src,The PHP Interpreter,
+52,aria2 / aria2,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+53,microsoft / dotnet,"This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.",
+54,radare / radare2,unix-like reverse engineering framework and commandline tools,
+55,dbeaver / dbeaver,Free universal database tool and SQL client,
+56,Pixelkit / PixelKit-Bootstrap-UI-Kits,Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!,
+57,kootenpv / whereami,Uses WiFi signals 📶 and machine learning to predict where you are,
+58,aptana / studio3,This repository contains the code for core components of Aptana Studio 3.,
+59,m4ll0k / Awesome-Hacking-Tools,Awesome Hacking Tools,
+60,waleedka / hiddenlayer,"Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.",
+61,scala / scala-lang,The Scala Website,
+62,jbagnato / machine-learning,"Código Python, Jupyter Notebooks, archivos csv con ejemplos para los ejercicios del Blog aprendemachinelearning.com",48
+63,tensorflow / tensorflow,An Open Source Machine Learning Framework for Everyone,132200
+64,resume / resume.github.com,Resumes generated using the GitHub informations,
+65,jtoy / awesome-tensorflow,TensorFlow - A curated list of dedicated resources http://tensorflow.org,
+66,google / lovefield,"Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.",
+67,Featuretools / featuretools,An open source python framework for automated feature engineering,
+68,samjabrahams / tensorflow-on-raspberry-pi,TensorFlow for Raspberry Pi,
+69,RomelTorres / alpha_vantage,A python wrapper for Alpha Vantage API for financial data.,
+70,DMTSource / daily-stock-forecast,Daily Stock Forecasts using Machine Learning & Python,
+71,DieterReuter / workshop-raspberrypi-64bit-os,Workshop to build a 64bit Docker OS for the Raspberry Pi 3,
+72,github / gitignore,A collection of useful .gitignore templates,75900
+73,electron / electron,"Build cross-platform desktop apps with JavaScript, HTML, and CSS",42000
+74,mtdvio / every-programmer-should-know,A collection of (mostly) technical things every software developer should know,39200
+75,opencv / opencv,Open Source Computer Vision Library,37100
+76,awesomedata / awesome-public-datasets,A topic-centric list of HQ open datasets. PR ☛☛☛,34400
+77,google / material-design-lite,Material Design Components in HTML/CSS/JS,31350
+78,pytorch / pytorch,Tensors and Dynamic neural networks in Python with strong GPU acceleration,30550
+79,yangshun / tech-interview-handbook,💯 Materials to help you rock your next coding interview,29400
+80,jakevdp / PythonDataScienceHandbook,Python Data Science Handbook: full text in Jupyter Notebooks,19275
+81,spotify / luigi,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",12015
+82,facebook / react-native,A framework for building native apps with React.,79785
+83,chartjs / Chart.js,Simple HTML5 Charts using the <canvas> tag,44700
+84,watson-developer-cloud / python-sdk,🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud,1141
+85,dipanjanS / practical-machine-learning-with-python,Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.,1134
+86,EbookFoundation / free-programming-books,📚 Freely available programming books,126132
+87,robbyrussell / oh-my-zsh,"🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python,",93100
+88,microsoft / TypeScript,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,53218
+89,jquery / jquery,jQuery JavaScript Library,52016
+90,ColorlibHQ / AdminLTE,AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x,29610
+91,hadley / r4ds,R for data science,2104
+92,joanby / python-ml-course,Curso de Introducción a Machine Learning con Python,156
+93,facebook / react,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",134000
+94,donnemartin / system-design-primer,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards,70433
+95,angular / angular,One framework. Mobile & desktop.,50149
+96,iluwatar / java-design-patterns,Design patterns implemented in Java,50418
+97,ageitgey / face_recognition,The world's simplest facial recognition api for Python and the command line,26723
+98,ageron / handson-ml,A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.,16151
+99,NVIDIA / FastPhotoStyle,"Style transfer, deep learning, feature transform",9774
+100,abhat222 / Data-Science--Cheat-Sheet,Cheat Sheets,3896
+101,ipython-contrib / jupyter_contrib_nbextensions,A collection of various notebook extensions for Jupyter,3636
+102,udacity / deep-learning,Repo for the Deep Learning Nanodegree Foundations program.,3151
+103,Kyubyong / nlp_tasks,Natural Language Processing Tasks and References,2620
+104,susanli2016 / Machine-Learning-with-Python,Python code for common Machine Learning Algorithms,1579
+105,home-assistant / home-assistant,🏡 Open source home automation that puts local control and privacy first,25683
+106,firmai / industry-machine-learning,A curated list of applied machine learning and data science notebooks and libraries across different industries.,2837
+107,public-apis / public-apis,A collective list of free APIs for use in software and web development.,59777
+108,mlflow / mlflow,Open source platform for the machine learning lifecycle,4390
+109,igorbarinov / awesome-data-engineering,A curated list of data engineering tools for software developers,445
+110,fastai / course-nlp,A Code-First Introduction to NLP course,1252
+111,joelgrus / data-science-from-scratch,code for Data Science From Scratch book,4040
+112,guipsamora / pandas_exercises,Practice your pandas skills!,3060
+113,bjpcjp / scikit-and-tensorflow-workbooks,"based on ""Hands-On Machine Learning with Scikit-Learn & TensorFlow"" (O'Reilly, Aurelien Geron)",284
+114,trimstray / the-book-of-secret-knowledge,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",21575
+115,pyloque / fastscan,quickly text search by ahocorasick algorithm,894
+116,TheAlgorithms / Python,All Algorithms implemented in Python,52800
+117,aymericdamien / TensorFlow-Examples,TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2),33215
+118,faif / python-patterns,A collection of design patterns/idioms in Python,21250
+119,GokuMohandas / practicalAI,📚 A practical approach to machine learning.,19475
+120,donnemartin / data-science-ipython-notebooks,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials",16154
+121,satwikkansal / wtfpython,A collection of surprising Python snippets and lesser-known features.,1484
+122,datasciencemasters / go,The Open Source Data Science Masters,5094
+123,start,🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained,12778
+124,eriklindernoren / ML-From-Scratch,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep lear,11805
+125,tqdm / tqdm,"A Fast, Extensible Progress Bar for Python and CLI",11084
+126,plotly / dash,Analytical Web Apps for Python. No JavaScript Required.,9600
+127,hangtwenty / dive-into-machine-learning,Dive into Machine Learning with Python Jupyter notebook and scikit-learn!,9504
+128,afshinea / stanford-cs-229-machine-learning,VIP cheatsheets for Stanford's CS 229 Machine Learning,2088
+129,joke2k / faker,Faker is a Python package that generates fake data for you.,8250
+130,slundberg / shap,A unified approach to explain the output of any machine learning model.,6046
+131,machinelearningmindset / machine-learning-course,💬 Machine Learning Course with Python. Refer to the course page for step-by-step explanations.,5800
+132,keras-team / autokeras,Accessible AutoML for deep learning.,5795
+133,kmario23 / deep-learning-drizzle,"Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",5760
+134,Pierian-Data / Complete-Python-3-Bootcamp,Course Files for Complete Python 3 Bootcamp Course on Udemy,5151
+135,nfmcclure / tensorflow_cookbook,Code for Tensorflow Machine Learning Cookbook,5053
+136,BinRoot / TensorFlow-Book,Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.,4326
+137,lazyprogrammer/machine_learning_examples,,3487
+138,yzhao062/pyod,"""."";""A Python Toolbox for Scalable Outlier Detection (Anomaly Detection) http://pyod.readthedocs.io""",2777
+139,susanli2016/NLP-with-Python,"Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more",874
+140,virgili0/Virgilio,Your new Mentor for Data Science E-Learning.,11533
+141,rasbt / python-machine-learning-book,"The ""Python Machine Learning (1st edition)"" book code repository and info resource",10067
+142,openai / gpt-2,"Code for the paper ""Language Models are Unsupervised Multitask Learners""",7190
+143,microsoft / computerscience,"Free tech resources for faculty, students, and dev advocates for use in computer science courses, workshops, and hackathons.",1146
+144,realpython / python-guide,"Python best practices guidebook, written for humans.",18775
+145,academic / awesome-datascience,📝 An awesome Data Science repository to learn and apply for real world problems.,10200
+146,mdbloice / Augmentor,Image augmentation library in Python for machine learning.,3341
+147,tdeboissiere / DeepLearningImplementations,Implementation of recent Deep Learning papers,1651
+148,hardikvasa / google-images-download,Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!,5509
+149,scikit-learn / scikit-learn,scikit-learn: machine learning in Python,36505
+148,psf / black,The uncompromising Python code formatter,11950
+151,timgrossmann / InstaPy,📷 Instagram Bot - Tool for automated Instagram interactions,8467
+152,graphql-python / graphene,GraphQL framework for Python,4864
+153,sindresorhus / awesome,Awesome lists about all kinds of interesting topics,113700
+154,getify / You-Dont-Know-JS,A book series on JavaScript. @YDKJS on twitter.,106300
+155,JuliaLang / julia,The Julia Language: A fresh approach to technical computing.,23200
+156,pandas-dev / pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",20700
+157,ipython / ipython,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",13704
+158,WordPress / WordPress,"WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit",12755
+159,jlevy / the-art-of-command-line,"Master the command line, in one page",63332
+160,papers-we-love / papers-we-love,Papers from the computer science community to read and discuss,35619
+161,zurb / foundation-sites,The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.,28222
+162,bokeh / bokeh,"Interactive Data Visualization in the browser, from Python",11189
+163,OmkarPathak / pygorithm,A Python module for learning all major algorithms,3743
+164,MaximAbramchuck / awesome-interview-questions,A curated awesome list of lists of interview questions. Feel free to contribute!,28689
+165,nodejs / node,Node.js JavaScript runtime,63397
+166,OWASP / CheatSheetSeries,The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics,7793
+167,explosion / spaCy,💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython,14118
