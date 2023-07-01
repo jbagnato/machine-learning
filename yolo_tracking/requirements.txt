@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+ultralytics==8.0.84
+Cython
+numpy
+lap
