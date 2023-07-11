@@ -2,6 +2,8 @@ import os
 # esto es para eviatar un error en Windows: OMP: Error #15: Initializing libiomp5md.dll, but found libiomp5md.dll already initialized.
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
+from argparse import ArgumentParser
+
 import cv2
 import numpy as np
 from ultralytics.nn.autobackend import AutoBackend
@@ -11,8 +13,16 @@ from bytetrack.byte_tracker import BYTETracker
 from ultralytics.yolo.data.dataloaders.stream_loaders import LoadImages
 from ultralytics.yolo.utils.ops import non_max_suppression, scale_boxes
 
+def parse_args():
+    parser = ArgumentParser()
+    parser.add_argument("-v", "--video", dest="video", type=str, required=True, help="archivo de video")
+    return parser.parse_args()
+
+args  = parse_args()
+
+
 save_vid = True
-video_file = "skateboard_02.mp4"
+video_file = args.video  #"skateboard_02.mp4"
 vid_writer = None
 save_path = video_file[:-4] + "_output.mp4"
 
@@ -104,3 +114,4 @@ for frame_idx, batch in enumerate(dataset):
 if vid_writer:
     vid_writer.release()
 cv2.destroyAllWindows()
+
